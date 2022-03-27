@@ -5,7 +5,7 @@ pip3 (sudo apt-get install python3-pip).
 
 Installing
 
-$ git clone 
+$ git clone https://github.com/V3noM-Cyber/SubdomainsV3.git
 $ cd SubdomainsV3
 $ pip3 install -r requirements.txt
 
